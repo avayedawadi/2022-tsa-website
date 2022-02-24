@@ -35,12 +35,12 @@ const NavigationBar = () => {
             </li>
             <li class="nav-item active">
               <a class="nav-link">
-              <Link to="/aboutme"><button className="navButton">About Me</button></Link>
+              <Link to="/aboutme"><button className="navButton">Basic Info</button></Link>
               </a>
             </li>
             <li class="nav-item active">
               <a class="nav-link">
-              <Link to="/work"><button className="navButton">My Work</button></Link>
+              <Link to="/work"><button className="navButton">More Stuff</button></Link>
               </a>
             </li>
           </ul>

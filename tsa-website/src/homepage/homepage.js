@@ -16,7 +16,7 @@ const Home = () => {
             />
             <div className="main">
                 <div className="center">
-                    <h1>Remote Basketball Three-Point Shootout</h1>
+                    <h1>Remote Basketball Shootout</h1>
                     <p>Get ready for some competitive fun!</p>
                     <Link to="/aboutme"><button className="homeButton">Basic Info</button></Link>
                 </div>

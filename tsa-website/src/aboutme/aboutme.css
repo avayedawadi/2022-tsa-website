@@ -36,11 +36,11 @@
     color: white;
 }
 
-.javascript {width: 85%; background-color: black}
+.javascript {width: 65%; background-color: black}
 .css {width: 65%; background-color: black}
-.react {width: 85%; background-color: black}
-.lit {width: 90%; background-color: black}
-.python {width: 90%; background-color: black}
+.react {width: 75%; background-color: black}
+.lit {width: 80%; background-color: black}
+.python {width: 100%; background-color: black}
 .tensorflow {width: 30%; background-color: black}
 .sql {width: 45%; background-color: black}
 .java {width: 80%; background-color: black}

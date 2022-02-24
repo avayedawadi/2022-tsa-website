@@ -40,44 +40,32 @@ const AboutMe = () => {
                 <br></br>
                 <h1>Q/A</h1>
                 <section className="aboutmypalateSection">
-                    <h4>What do you love about programming?</h4>
-                    <p>I love working through challenging problems and having that feeling of satisfaction after getting through a tough task. I also love collaborating with others.</p>
-                    <h4>What do you like to do outside of programming and school?</h4>
-                    <p>I love to watch and play basketball. I also, of course, love to play video games.</p>
-                    <h4>What are your future aspirations?</h4>
-                    <p>I want to go to college and go to a great computer science program. Ultimately, I'd like to go all the way through to getting a PhD</p>
-                    <h4>Are you open to frelancing and doing work outside of what you're doing now?</h4>
-                    <p>Of course! Contact me with my contact information at the bottom of this page and we can work something out.</p>
-                </section>
-                <h1>Skills</h1>
+                    <h4>Why was this started?</h4>
+                    <p>With Covid, it was hard to play basketball with others so we started this to give competitive basketball for people still in quarantine.</p>
+                    <h4>Who is this specifically for?</h4>
+                    <p>We want everybody to play! But we especially want those with underlying medical conditions to play. They are the ones who are left behind by loosening restrictions so they're the ones we want to help the most.</p>
+                    <h4>Why is there an age requirement?</h4>
+                    <p>Everything takes place over video and because of risks working with small children on video, we cannot currently accomodate children under 13 years of age.</p>
+                    <h4>Right now you're only in the US. When are you going to expand to the entire world?
+                    </h4>
+                    <p>Our goal is to make this a global competition by next year. That's when we'll have the proper facilities to do this on a global basis.</p></section>
+                <h1>Some Stats</h1>
                 <div className="allGraphs">
-                    <h4>JavaScript</h4>
+                    <h4>Percentage of participants between 13-18 years of age</h4>
                     <div class="graphContainer">
-                        <div class="skill javascript">85%</div>
+                        <div class="skill javascript">65%</div>
                     </div>
-                    <h4>React</h4>
+                    <h4>Percentage of total shots made last year</h4>
                     <div class="graphContainer">
-                        <div class="skill react">85%</div>
+                        <div class="skill react">75%</div>
                     </div>
-                    <h4>Web Components/Lit</h4>
+                    <h4>Percentage of participants from last year who are coming back to play this year</h4>
                     <div class="graphContainer">
-                        <div class="skill lit">90%</div>
+                        <div class="skill lit">80%</div>
                     </div>
-                    <h4>Python</h4>
+                    <h4>Percentage of people who had fun last year</h4>
                     <div class="graphContainer">
-                        <div class="skill python">90%</div>
-                    </div>
-                    <h4>TensorFlow</h4>
-                    <div class="graphContainer">
-                        <div class="skill tensorflow">30%</div>
-                    </div>
-                    <h4>SQL</h4>
-                    <div class="graphContainer">
-                        <div class="skill sql">45%</div>
-                    </div>
-                    <h4>Being a cool dude</h4>
-                    <div class="graphContainer">
-                        <div class="skill cooldude">100%</div>
+                        <div class="skill python">100%</div>
                     </div>
                 </div>
                 <br></br>
@@ -88,11 +76,11 @@ const AboutMe = () => {
                         <tbody>
                             <tr>
                                 <th scope="row">Email</th>
-                                <td>avaye.dawadi@gmail.com</td>
+                                <td>thisispretend@email.com</td>
                             </tr>
                             <tr>
-                                <th scope="row">GitHub URL</th>
-                                <td>github.com/avayedawadi</td>
+                                <th scope="row">Contat Person</th>
+                                <td>John Basketball</td>
                             </tr>
                         </tbody>
                     </table>

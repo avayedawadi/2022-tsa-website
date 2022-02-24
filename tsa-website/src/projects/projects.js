@@ -19,8 +19,8 @@ const Work = () => {
         <>
             <div className="projectMain">
                 <h1>My Projects and Experience</h1>
-                <Link to="/gtri"><WorkImage text="My Work with GTRI" imageURL="https://www.randydeng.com/assets/images/work/gtri.png"></WorkImage></Link>
-                <Link to='/mypalate'><WorkImage imageURL="https://pbs.twimg.com/profile_images/1260431576808263680/HtWrWGJc.jpg"></WorkImage></Link>
+                <Link to="/gtri"><WorkImage text="My Work with GTRI" imageURL="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Camera_flash.svg/302px-Camera_flash.svg.png?20200409235318"></WorkImage></Link>
+                <Link to='/mypalate'><WorkImage imageURL="https://images.unsplash.com/photo-1618588590706-bac3c25b3d41?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"></WorkImage></Link>
             </div>
 
         </>
